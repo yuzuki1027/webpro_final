@@ -165,7 +165,7 @@ function Footer() {
       </div>
       <div className="footer-copyright">
         <div className="container">
-          2022.1.31 5420075 高橋優月 webプログラミング 最終課題
+          高橋優月
           <a className="grey-text text-lighten-4 right" href="https://github.com/yuzuki1027/webpro-final">My github Link</a>
         </div>
       </div>
